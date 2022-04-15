@@ -44,13 +44,6 @@ MongoDB Express React Redux NodeJs are user in this project.
  - admin can delete those reported posts.
 
 
-**What you need to run this application:**
-
- - Node 
- - MongoDB or Mongo Atlas
- - Cloudinary account
- - NPM
-
 **How to run this application**
 1.  Make sure MongoDB is running on your system or online.
 2. include MongoDB database link in .env file.
